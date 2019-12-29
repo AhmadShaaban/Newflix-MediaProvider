@@ -1,0 +1,123 @@
+.d-flex {
+  display: flex;
+}
+
+.justify-content-around {
+  justify-content: space-around;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.display-none {
+  display: none;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.h-100 {
+  height: 100%;
+}
+
+.h-100vh {
+  height: 100vh;
+}
+
+.m-auto {
+  margin: auto;
+}
+
+.mb-0 {
+    margin-bottom: 0;
+}
+
+.my-btn {
+  background: #e50914;
+}
+
+.my-btn:hover,
+.my-btn:focus,
+.my-btn:active:hover {
+  background: #ac0a12;
+}
+
+.signup-right-bg {
+  background: url('../images/signup-right-bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logo {
+  width: 400px;
+}
+
+.signup-call-to-action {
+  margin: 30px 0px;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.signup-form {
+  text-align: left;
+  width: 335px;
+  margin: auto;
+}
+
+.signup-form > div {
+  margin-bottom: 20px;
+}
+
+.signup-form label {
+  display: block;
+  font-weight: 400;
+}
+
+.signup-form input {
+  width: 100%;
+  border: 1px solid #EEE;
+  border-radius: 4px;
+  padding: 10px 10px;
+}
+
+.signup-form .submit {
+  text-align: center;
+}
+
+.signup-form .submit .submit-btn {
+  width: 110px;
+}
+
+.main-content {
+    padding-bottom: 40px;
+}
+
+.movie-img {
+    height: 300px !important;
+}
+
+.movie-link {
+    text-align: center;
+}
+
+.movie-link-text {
+    margin-top: 20px;
+    margin-bottom: 5px;
+    font-size: 22px;
+    display: block;
+}
+
+.movie-desc {
+    display: block;
+    text-align: center;
+}
